@@ -1,0 +1,55 @@
+body {
+	padding: 30px;
+	background: #111;
+	color: #B0D2FF;
+	font-size: 30px;
+
+}
+.title {
+	font-family: 'VT323';
+	color: #B0D2FF;
+	text-shadow: 0px 0px 20px rgba(199, 219, 255, .9),
+		0px 0px 70px rgba(199, 219, 255, .9), 
+		0px 0px 150px rgba(199, 219, 255, 1),
+		0px 0px 150px rgba(199, 219, 255, 1);
+
+}
+.table {
+	display: table;
+	width: 250px;
+	height: 250px;
+	margin: 0 35%;
+	//font-family: 'Comic Sans MS', cursive;
+	font-size: 60px;
+	cursor: pointer;
+		text-shadow: 0px 0px 20px rgba(199, 219, 255, .4),
+		0px 0px 70px rgba(199, 219, 255, .5), 
+		0px 0px 120px rgba(199, 219, 255, .5);
+
+
+}
+.row {
+	display: table-row;
+
+}
+.cell {
+	display: table-cell;
+	width: 33.33%;
+	height: 33.33%;
+	text-align: center;
+	vertical-align: middle;
+	
+}
+[id='2'], [id='8'] {
+	border-left: 2px solid #B0D2FF;
+	border-right: 2px solid #B0D2FF;	
+}
+
+[id='4'], [id='6']  {
+	border-top: 2px solid #B0D2FF;
+	border-bottom: 2px solid #B0D2FF;
+}
+
+[id='5'] {
+	border: 2px solid #B0D2FF;
+}

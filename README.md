@@ -1,5 +1,5 @@
 # Free Code Camp
-##Advanced Front End Development Projects
+###Advanced Front End Development Projects
 
 01 [Build a Tic Tac Toe Game](../master/Build_a_Tic_Tac_Toe_Game/index.html)
 
@@ -9,7 +9,7 @@
 
 04 [Build a Pomodoro Clock](#)
 
-##Intermediate Front End Development Projects
+###Intermediate Front End Development Projects
 
 01 [Build a Random Quote Machine](#)
 

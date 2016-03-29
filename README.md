@@ -7,4 +7,14 @@
 
 03 [Build a JavaScript Calculator](#)
 
-03 [Build a Pomodoro Clock](#)
+04 [Build a Pomodoro Clock](#)
+
+##Intermediate Front End Development Projects
+
+01 [Build a Random Quote Machine](#)
+
+02 [Show the Local Weather](#)
+
+03 [Build a Wikipedia Viewer](#)
+
+04 [Use the Twitch.tv JSON API](#)

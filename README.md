@@ -16,6 +16,3 @@
 [Build a Random Quote Machine](http://davidpetrey.github.io/FCC-Projects/Build_a_Random_Quote_Generator/)
 
 [Build a Wikipedia Viewer](http://davidpetrey.github.io/FCC-Projects/Build_a_Wikipedia_Viewer/)
-=======
-
->>>>>>> gh-pages

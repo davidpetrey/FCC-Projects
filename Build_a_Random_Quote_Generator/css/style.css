@@ -1,0 +1,12 @@
+body {
+  padding: 20px;
+}
+
+div {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+#target {
+  cursor: pointer;
+}

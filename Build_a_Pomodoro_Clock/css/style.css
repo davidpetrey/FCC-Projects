@@ -1,0 +1,23 @@
+body {
+  margin: 70px 0;
+  padding: 5px 8px;
+  background: #002040;
+  text-align: center;
+}
+p {
+  display: inline-block;  
+}
+h1 {
+  color: white;
+  font-family: 'Pacifico', cursive;
+  font-size: 80px;
+  font-weight: lighter;
+  margin: 0;
+}
+#output {
+  width: 100px;
+  height: 30px;
+  background-color: #ccc;
+  font-size: 24px;
+  text-align: center;
+}

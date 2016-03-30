@@ -1,0 +1,32 @@
+body {
+	background: #383838;
+}
+.container {
+	width: 212px;
+	border: 0px solid #333;
+	margin: 50px auto;
+	padding-bottom: 12px;
+	background: #276FAD;
+}
+
+.btn-primary {
+	width: 35px;
+	margin: 2px;
+	padding: 6px;
+	border: 1px solid #333;
+	background: #2F7CBF;
+}
+
+.container > div:nth-of-type(4n+5){margin-left:4px;width: 45px}
+
+
+#display {
+	background: #ddd;
+	border: 1px solid #333;
+	text-align: right;
+	width: 177px;
+	height: 35px;
+	margin: 25px 0 15px 2px;
+	cursor: default;
+}
+
